@@ -35,7 +35,8 @@
   "dependencies": {
     "leaflet": "^1.4.0",
     "npm-publish-git-tag": "^3.0.3",
-    "vue2-leaflet": "^2.0.2"
+    "vue2-leaflet": "^2.0.2",
+       "leaflet.icon.glyph": "^0.2.1"
   },
   "devDependencies": {
     "codecov": "latest",
